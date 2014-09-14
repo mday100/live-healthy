@@ -1,4 +1,4 @@
-## Paws Blog!
+## Healthy Living
 
 [![Screenshot](pawsblog.png)](http://pawsblog.herokuapp.com)
 
