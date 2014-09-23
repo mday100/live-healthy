@@ -1,4 +1,3 @@
-## Live Healthy - Your Guide to Healthy Living 
 
 [![Screenshot](screenshot.png)](https://mday100.github.io/live-healthy/)
 
